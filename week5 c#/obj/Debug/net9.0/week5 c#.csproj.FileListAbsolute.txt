@@ -1,0 +1,14 @@
+C:\Users\young\Desktop\week5 c#\bin\Debug\net9.0\week5 c#.exe
+C:\Users\young\Desktop\week5 c#\bin\Debug\net9.0\week5 c#.deps.json
+C:\Users\young\Desktop\week5 c#\bin\Debug\net9.0\week5 c#.runtimeconfig.json
+C:\Users\young\Desktop\week5 c#\bin\Debug\net9.0\week5 c#.dll
+C:\Users\young\Desktop\week5 c#\bin\Debug\net9.0\week5 c#.pdb
+C:\Users\young\Desktop\week5 c#\obj\Debug\net9.0\week5 c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\young\Desktop\week5 c#\obj\Debug\net9.0\week5 c#.AssemblyInfoInputs.cache
+C:\Users\young\Desktop\week5 c#\obj\Debug\net9.0\week5 c#.AssemblyInfo.cs
+C:\Users\young\Desktop\week5 c#\obj\Debug\net9.0\week5 c#.csproj.CoreCompileInputs.cache
+C:\Users\young\Desktop\week5 c#\obj\Debug\net9.0\week5 c#.dll
+C:\Users\young\Desktop\week5 c#\obj\Debug\net9.0\refint\week5 c#.dll
+C:\Users\young\Desktop\week5 c#\obj\Debug\net9.0\week5 c#.pdb
+C:\Users\young\Desktop\week5 c#\obj\Debug\net9.0\week5 c#.genruntimeconfig.cache
+C:\Users\young\Desktop\week5 c#\obj\Debug\net9.0\ref\week5 c#.dll
